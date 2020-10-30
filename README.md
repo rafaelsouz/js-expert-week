@@ -18,22 +18,6 @@
  
 Desde que você tenha instalado no seu computador [Docker](https://www.docker.com/get-started), o [VSCode](https://code.visualstudio.com/download) e a extensão [Remote-Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers), não tem pré-requisito algum, é só rodar o projeto! 😲
 
-  
-
-Instruções:
-
-  
-```bash
-# Clone este repositório
-$ git clone https://github.com/pedrorenan/js-expert-week.git
-
-# Acesse a pasta do projeto no terminal/cmd
-$ cd js-expert-week
-
-# Abra o projeto com o VSCode
-$ code .
-```
-
 Quando o [VSCode](https://code.visualstudio.com/download) abrir você verá uma mensagem informando que foram detectadas as configurações necessárias para que a extensão [Remote-Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) faça a mágica acontecer.
 
 
